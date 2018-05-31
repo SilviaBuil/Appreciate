@@ -1,0 +1,78 @@
+{
+  "customers": [
+    {
+      "Service": "Peluquería",
+      "Img": "barbershop.png",
+      "id": 1
+    },
+    {
+      "Service": "Depilación",
+      "Img": "wax.png",
+      "id": 2
+    },
+    {
+      "Service": "Manos",
+      "Img": "manicure.png",
+      "id": 3
+    },
+    {
+      "Service": "Pies",
+      "Img": "foots.png",
+      "id": 4
+    },
+    {
+      "Service": "Masajes",
+      "Img": "massage.png",
+      "id": 5
+    },
+    {
+      "Service": "P.Trainer",
+      "Img": "training.png",
+      "id": 6
+    },
+    {
+      "Service": "Yoga",
+      "Img": "yoga.png",
+      "id": 7
+    },
+    {
+      "Service": "Maquillaje",
+      "Img": "cosmetics.png",
+      "id": 8
+    },
+    {
+      "Service": "Cosmiatría",
+      "Img": "treatment.png",
+      "id": 9
+    }
+  ],
+  "CommentServices": [
+    {
+      "usr": "01",
+      "service": "Peluqueria",
+      "img": "BlueBarber.png",
+      "comment": "Te hago la tintura, la queratina, te peino para una fiesta y te hago el corte",
+      "id": 1
+    },
+    {
+      "usr": "01",
+      "service": "Depilación",
+      "img": "BlueWax.png",
+      "comment": "Depilación, cera descartable con bandas",
+      "id": 2
+    }
+  ],
+  "Contact": [
+    {
+      "usr": "01",
+      "mail": "contacto@gmail.com",
+      "face": "facebook",
+      "tweet": "twt",
+      "tel": "54 11 4555 5555",
+      "tel2": "54 11 4333 5555",
+      "id": 1
+    }
+  ],
+  "Comments": []
+
+}
