@@ -1,47 +1,56 @@
 {
   "customers": [
     {
-      "Service": "Peluquería",
+      "name": "Peluquería",
+      "code": "HAR",
       "Img": "barbershop.png",
       "id": 1
     },
     {
-      "Service": "Depilación",
+      "name": "Depilación",
+       "code": "WAX",
       "Img": "wax.png",
       "id": 2
     },
     {
-      "Service": "Manos",
+      "name": "Manos",
+       "code": "HAND",
       "Img": "manicure.png",
       "id": 3
     },
     {
-      "Service": "Pies",
+      "name": "Pies",
+       "code": "PEDI",
       "Img": "foots.png",
       "id": 4
     },
     {
-      "Service": "Masajes",
+      "name": "Masajes",
+       "code": "MASS",
       "Img": "massage.png",
       "id": 5
     },
     {
       "Service": "P.Trainer",
+       "code": "TRAI",
       "Img": "training.png",
       "id": 6
     },
     {
-      "Service": "Yoga",
+      "name": "Yoga",
+       "code": "YOGA",
       "Img": "yoga.png",
       "id": 7
     },
     {
-      "Service": "Maquillaje",
+      "name": "Maquillaje",
+      "code": "MAKE",
       "Img": "cosmetics.png",
       "id": 8
     },
     {
-      "Service": "Cosmiatría",
+      "name": "Cosmiatría",
+       "code": "COSM",
       "Img": "treatment.png",
       "id": 9
     }
