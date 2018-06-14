@@ -32,7 +32,7 @@
     },
     {
       "name": "Personal Trainer",
-       "code": "TRAI",
+      "code": "TRAI",
       "image": "trai.png",
       "id": 6
     },
@@ -50,7 +50,7 @@
     },
     {
       "name": "Cosmiatría",
-       "code": "COSM",
+      "code": "COSM",
       "image": "cosm.png",
       "id": 9
     }
