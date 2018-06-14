@@ -3,55 +3,55 @@
     {
       "name": "Peluquería",
       "code": "HAR",
-      "Img": "barbershop.png",
+      "image": "har.png",
       "id": 1
     },
     {
       "name": "Depilación",
        "code": "WAX",
-      "Img": "wax.png",
+      "image": "wax.png",
       "id": 2
     },
     {
       "name": "Manos",
        "code": "HAND",
-      "Img": "manicure.png",
+      "image": "hand.png",
       "id": 3
     },
     {
       "name": "Pies",
        "code": "PEDI",
-      "Img": "foots.png",
+      "image": "pedi.png",
       "id": 4
     },
     {
       "name": "Masajes",
        "code": "MASS",
-      "Img": "massage.png",
+      "image": "mass.png",
       "id": 5
     },
     {
       "name": "P.Trainer",
        "code": "TRAI",
-      "Img": "training.png",
+      "image": "trai.png",
       "id": 6
     },
     {
       "name": "Yoga",
        "code": "YOGA",
-      "Img": "yoga.png",
+      "image": "yoga.png",
       "id": 7
     },
     {
       "name": "Maquillaje",
       "code": "MAKE",
-      "Img": "cosmetics.png",
+      "image": "make.png",
       "id": 8
     },
     {
       "name": "Cosmiatría",
        "code": "COSM",
-      "Img": "treatment.png",
+      "image": "cosm.png",
       "id": 9
     }
   ],
